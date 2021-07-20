@@ -24,7 +24,7 @@ hr{
     position: fixed;
 }
 #links:hover{
-    background-color: #364F6B;
+    background-color: black;
     color: white;
 }
 #links{
